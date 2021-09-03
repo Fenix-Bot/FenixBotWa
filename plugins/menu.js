@@ -7,7 +7,7 @@ let moment = require('moment-timezone')
 const defaultMenu = {
   before: `Bot Name : %me
 Your Name : %name
-Owner : wa.me/60199782326
+Owner : wa.me/${global.owner}
 Uptime : %uptime
 Limit : %limit
 Prefix : Multi
@@ -186,8 +186,8 @@ let handler = async (m, { conn, usedPrefix: _p, args, command }) => {
     if (teks == '404') {
       return conn.relayWAMessage(conn.prepareMessageFromContent(m.chat, {
         "listMessage": {
-          "title": `Ｉｔｓｕｋｉ　Ｂｏｔ　翁ウざ\n\nUptime : ${uptime}\nUcapan : ${ucapan()}, ${name}`.trim(),
-          "description": "(っ◔◡◔)っ ♥ Itsuki Bot ♥",
+          "title": `F e n i x Ｂｏｔ　翁ウざ\n\nUptime : ${uptime}\nUcapan : ${ucapan()}, ${name}`.trim(),
+          "description": "(っ◔◡◔)っ ♥ Fenix Bot ♥",
           "buttonText": "CLICK HERE~~",
           "listType": "SINGLE_SELECT",
           "sections": [
