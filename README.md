@@ -1,12 +1,12 @@
 <p align="center">
-	<img src="https://telegra.ph/file/005c5ee842de1a4fbaeae.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
+	<img src="https://telegra.ph/file/04bdd9e4194a98888e0b3.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
-<h1 align="center">Itsuki Bot</h1>
-<a href="https://github.com/Itsuki-chan"><img title="CREATED" src="https://img.shields.io/badge/Created-Itsuki-black?style=for-the-badge&logo=github"></a>
+<h1 align="center">Fenix Bot</h1>
+<a href="https://github.com/Itsuki-chan"><img title="CREATED" src="https://img.shields.io/badge/Created-Gatau-black?style=for-the-badge&logo=github"></a>
 </p>
 
 #### Deploy to Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Itsuki-chan/Wa)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Fenix-Bot/FenixBotWa)
 
 #### Heroku Buildpack
 | BuildPack | LINK |
@@ -17,11 +17,8 @@
 
 <p align "center">
 <a href="#"><img title="wa" 
-src="https://img.shields.io/badge/itsukichan-red?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+src="https://img.shields.io/badge/Fenix-red?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
-
-#### My Creator Stats
-<p align="center"><a href="https://github.com/Adiixyz"><img src="https://github-readme-stats.vercel.app/api?username=Adiixyz&show_icons=true&theme=radical"></a></p>
 
 ### Note : This source code doesn't support Termux
 #### Need to run at Windows, RDP, Heroku
@@ -33,15 +30,12 @@ src="https://img.shields.io/badge/itsukichan-red?colorA=%23ff0000&colorB=%23017e
 * Unduh & Instal ImageMagick [`Klik Disini`](https://imagemagick.org/script/download.php) (**Jangan Lupa Add FFMPEG**)
 
 ```cmd
-> git clone https://github.com/Itsuki-chan/Wa.git
-> cd Wa
+> git clone https://github.com/Fenix-Bot/FenixBotWa.git
+> cd FenixBotWa
 > npm i
 ```
 
-# rid dis
-[hmm](https://github.com/Itsuki-chan/Wa/pull/1)
-
 # THANKS lord
 * [`Baileys`](https://github.com/adiwajshing/Baileys)
-* [`ariffb`](https://github.com/ariffb25)
+* [`adiixyz`](https://github.com/Adiixyz)
 
